@@ -1,0 +1,10 @@
+P00001         |NXB Kim Dong        |0389334795     
+P00002         |NXB Tre             |0389334796     
+P00003         |NXB Cong Dong       |0389334797     
+P00004         |NXB Thanh Nien      |0389334895     
+P00005         |NXB Thoi Dai        |0913758519     
+P00006         |NXB Lao Dong        |0938348750     
+P00007         |NXB Tien Phong      |0726282435     
+P00008         |NXB Tuoi Tre        |0987654321     
+P00009         |NXB Van Lang        |0789357509     
+P00010         |NXB Dai Viet        |0983765198  

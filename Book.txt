@@ -1,0 +1,9 @@
+B00001    |Legend of Zelda          |30.500         |2              |Available      |P00001         
+B00002    |Hunter x Hunter          |35.500         |1              |Not Available  |P00002         
+B00003    |Justice League           |55.500         |1              |Available      |P00001         
+B00004    |Call of the hunter       |24.500         |100            |Available      |P00001         
+B00005    |Blue Eyes                |6.500          |10             |Available      |P00002         
+B00006    |Avatar the way of water  |15.500         |10             |Not Available  |P00005         
+B00007    |Harry Potter III         |105.500        |5              |Available      |P00006         
+B00008    |Dac Nhan Tam             |55.500         |1              |Not Available  |P00009         
+B00011    |Kinh Van Hoa             |4.500          |10             |Available      |P00001         
